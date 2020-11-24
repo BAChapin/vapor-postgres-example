@@ -74,7 +74,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/bachapin/Documents/Udemy/Mastering Server Side Swift Using Vapor 3/hello-postgress-vapor"
+      customWorkingDirectory = "/Users/bachapin/Documents/Udemy/Mastering Server Side Swift Using Vapor 4/hello-postgress-vapor"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
